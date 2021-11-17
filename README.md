@@ -23,7 +23,7 @@
 | Htpasswd         | `link to your Password provider or file here` |
 | Drupal admin     | `link to your Password provider or file here` |
 | Database dump UI | `No UI, use only cli` |
-
+| CI/CD dashboard  | `link to CI/CD dashboard or settings files here` |
 
 ## About
 A basic introduction about this project...
